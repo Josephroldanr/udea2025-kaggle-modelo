@@ -6,9 +6,12 @@ Desarrollo modular del proyecto AI4ENG UDEA 2025-2. Incluye notebooks de explora
 ![Pandas](https://img.shields.io/badge/Pandas-DataFrame-lightgrey?logo=pandas&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-Submission-blue?logo=kaggle&logoColor=white)
 
-## 👤 Información del estudiante
+## 👤 Información de los estudiantes
 
 - **Nombre completo:** Joseph Roldan Ramirez
 - **Cédula:** 1115091119
 - **Programa académico:** Ingenieria en Sistemas
-- **Usuario de Kaggle:** josephroldanramirez
+
+- - **Nombre completo:** Alejandro Gallego Alarcón
+- **Cédula:** 1013104268
+- **Programa académico:** Ingenieria en Sistemas
