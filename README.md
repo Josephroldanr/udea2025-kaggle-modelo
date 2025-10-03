@@ -10,7 +10,8 @@ Primera entrega del proyecto AI4ENG UDEA 2025-2. Incluye un notebook de explorac
 ![Kaggle](https://img.shields.io/badge/Kaggle-Submission-blue?logo=kaggle&logoColor=white)
 
 ## Información de los estudiantes
-| Nombre completo              | Cédula      | Programa académico       |
-|-----------------------------|-------------|---------------------------|
-| Joseph Roldan Ramirez       | 1115091119  | Ingeniería en Sistemas    |
-| Alejandro Gallego Alarcón   | 1013104268  | Ingeniería en Sistemas    |
+| Nombre completo              | Cédula      | Programa académico       | Usuario de Kaggle       |
+|-----------------------------|-------------|---------------------------|--------------------------|
+| Joseph Roldan Ramirez       | 1115091119  | Ingeniería en Sistemas    | josephroldanramirez          |
+| Alejandro Gallego Alarcón   | 1013104268  | Ingeniería en Sistemas    | alejandrogallegoal  |
+
