@@ -4,7 +4,6 @@ Desarrollo modular del proyecto AI4ENG UDEA 2025-2. Incluye notebooks de explora
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-DataFrame-lightgrey?logo=pandas&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Modeling-yellow?logo=scikit-learn&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-Submission-blue?logo=kaggle&logoColor=white)
 
 ## 👤 Información del estudiante
