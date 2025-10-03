@@ -9,7 +9,7 @@ Primera entrega del proyecto AI4ENG UDEA 2025-2. Incluye un notebook de explorac
 ![Pandas](https://img.shields.io/badge/Pandas-DataFrame-lightgrey?logo=pandas&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-Submission-blue?logo=kaggle&logoColor=white)
 
-## 👤 Información de los estudiantes
+## Información de los estudiantes
 | Nombre completo              | Cédula      | Programa académico       |
 |-----------------------------|-------------|---------------------------|
 | Joseph Roldan Ramirez       | 1115091119  | Ingeniería en Sistemas    |
