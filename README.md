@@ -1,4 +1,4 @@
-# udea2025-kaggle-modelo
+# udea20252-kaggle-modelo
 
 ## Entrega 1
 Primera entrega del proyecto AI4ENG UDEA 2025-2. Incluye un notebook de exploración básica del conjunto de datos `train.csv` y un archivo `README.md` con la información académica de los integrantes. El objetivo es demostrar la capacidad de carga e inspección inicial de los datos.
