@@ -10,7 +10,7 @@ Cada entrega se construye sobre la anterior, manteniendo una estructura reproduc
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-DataFrame-lightgrey?logo=pandas&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-Plataform-blue?logo=kaggle&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-JosephRoldan-red?logo=youtube&style=flat-square)
+![YouTube](https://img.shields.io/badge/YouTube-JosephRoldan-red?logo=youtube)
 
 ## Información de los estudiantes
 
@@ -18,5 +18,3 @@ Cada entrega se construye sobre la anterior, manteniendo una estructura reproduc
 |-----------------------------|-------------|---------------------------|--------------------------|-------------------------|-------------------------|
 | Joseph Roldan Ramirez       | 1115091119  | Ingeniería en Sistemas    | josephroldanramirez      | [Ver entrega 2](https://youtu.be/lK66kDNs9Po) |   |
 | Alejandro Gallego Alarcón   | 1013104268  | Ingeniería en Sistemas    | alejandrogallegoal       | [Ver entrega 2](https://youtu.be/ZhKK0jPBSu8) |   |
-
-
