@@ -9,14 +9,14 @@ Cada entrega se construye sobre la anterior, manteniendo una estructura reproduc
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-DataFrame-lightgrey?logo=pandas&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-Submission-blue?logo=kaggle&logoColor=white)
-[![YouTube](https://img.shields.io/badge/YouTube-JosephRoldan-red?logo=youtube&style=flat-square)](https://www.youtube.com/@TuCanal)
+![Kaggle](https://img.shields.io/badge/Kaggle-Plataform-blue?logo=kaggle&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-JosephRoldan-red?logo=youtube&style=flat-square)
 
 ## Información de los estudiantes
 
 | Nombre completo             | Cédula      | Programa académico        | Usuario de Kaggle        | Video entrega 2         | Video entrega 3         |
 |-----------------------------|-------------|---------------------------|--------------------------|-------------------------|-------------------------|
 | Joseph Roldan Ramirez       | 1115091119  | Ingeniería en Sistemas    | josephroldanramirez      | [Ver entrega 2](https://youtu.be/lK66kDNs9Po) |   |
-| Alejandro Gallego Alarcón   | 1013104268  | Ingeniería en Sistemas    | alejandrogallegoal       | [Ver entrega 2]()                             |   |
+| Alejandro Gallego Alarcón   | 1013104268  | Ingeniería en Sistemas    | alejandrogallegoal       | [Ver entrega 2](https://youtu.be/ZhKK0jPBSu8) |   |
 
 
