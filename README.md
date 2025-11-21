@@ -17,4 +17,4 @@ Cada entrega se construye sobre la anterior, manteniendo una estructura reproduc
 | Nombre completo             | Cédula      | Programa académico        | Usuario de Kaggle        | Video entrega 2         | Video entrega 3         |
 |-----------------------------|-------------|---------------------------|--------------------------|-------------------------|-------------------------|
 | Joseph Roldan Ramirez       | 1115091119  | Ingeniería en Sistemas    | josephroldanramirez      | [Ver video E2](https://youtu.be/XL0x6Gf8YpA) |    |
-| Alejandro Gallego Alarcón   | 1013104268  | Ingeniería en Sistemas    | alejandrogallegoal       | [Ver video E2](https://youtu.be/XL0x6Gf8YpA) |    |
+| Alejandro Gallego Alarcón   | 1013104268  | Ingeniería en Sistemas    | alejandrogallegoal       | [Ver video E2](https://youtu.be/32dh1obKbPI) |    |
